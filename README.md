@@ -38,3 +38,4 @@ Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](h
 * [Homerow](https://www.homerow.app) (closed source, one time purchase)
 * [Superkey](https://superkey.app) (closed source, one time purchase)
 * [VimMotionApp](https://github.com/dwarvesf/VimMotionApp) (closed source, free)
+* [Scoot](https://github.com/mjrusso/scoot) (open source, free)
