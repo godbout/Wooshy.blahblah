@@ -40,3 +40,4 @@ Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](h
 * [Superkey](https://superkey.app) (closed source, one time purchase)
 * [VimMotionApp](https://github.com/dwarvesf/VimMotionApp) (closed source, free)
 * [Scoot](https://github.com/mjrusso/scoot) (open source, free)
+* [Mouseless](https://mouseless.click) (closed source, one time purchase)
