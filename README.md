@@ -28,8 +28,6 @@ Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](h
 
 # The Roadmap
 
-* stop stealing focus so that all those new macOS popovers don't disappear (requires a big rewrite)
-* custom key remapping
 * Text Selection Popover feature so that you can forward text found by Wooshy to other apps (https://github.com/godbout/Wooshy.docs/issues/151)
 
 # The Alternatives
